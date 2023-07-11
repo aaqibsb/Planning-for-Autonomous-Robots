@@ -1,5 +1,5 @@
 # DESCRIPTION:
-abarodaw_proj1.py - Breadth First Algorithm for 8-puzzle problem.
+abarodaw_proj1.py - Breadth First Algorithm for 8-puzzle problem.\
 plot_path.py - Python script to help visualise the steps.
 
 # ENVIRONMENT USED:
@@ -20,7 +20,7 @@ Click the play button on the top right corner or use the shortcut (Shift+F10).
 ## INSTRUCTIONS:
 abarodaw_proj1.py - Before running the script, enter the START STATE on line 12 and enter the GOAL STATE on line 19. Make sure the format/syntax of the input to the variables is same as shown below as example:
 
-node_state_i_input = [[1, 6, 7], [2, 0, 5], [4, 3, 8]]
+node_state_i_input = [[1, 6, 7], [2, 0, 5], [4, 3, 8]]\
 goal_state_input = [[1, 4, 7], [2, 5, 8], [3, 0, 6]]
 
 
