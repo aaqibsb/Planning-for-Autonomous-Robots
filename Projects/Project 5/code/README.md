@@ -1,9 +1,9 @@
-## Informed_RRT_star_competition.py
-## Informed_RRT_star_proj3_phase2.py
-## RRT_competition.py
-## RRT_proj3_phase2.py
-## RRT_star_competition.py
-## RRT_star_proj3_phase2.py
+#### Informed_RRT_star_competition.py
+#### Informed_RRT_star_proj3_phase2.py
+#### RRT_competition.py
+#### RRT_proj3_phase2.py
+#### RRT_star_competition.py
+#### RRT_star_proj3_phase2.py
 
 Shreejay Badshah (119224564 - sbadshah)\
 Aaqib Barodawala (119348710 - abarodaw)
@@ -43,8 +43,7 @@ To run the code, open any editor (preferably VSC) and run the script.
 ***Testing any script***\
 To test the any RRT based algorithm in 2D.
 1. Run the python script in an IDE (preferable VSC). All the required values are provided. 
-6. The animation video of tracking will be generated automatically.
+2. The animation video of tracking will be generated automatically.
 
-```
 
 
